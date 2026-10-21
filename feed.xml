@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+  <title>Curator Picks</title>
+  <link>https://jtalborough.github.io/curator-feed-903783cf/</link>
+  <atom:link href="https://jtalborough.github.io/curator-feed-903783cf/feed.xml" rel="self" type="application/rss+xml"/>
+  <description>Hand-picked episodes for Jason</description>
+  <language>en-us</language>
+  <lastBuildDate>Wed, 21 Oct 2026 10:35:55 +0000</lastBuildDate>
+  <itunes:author>Curator</itunes:author>
+  <itunes:summary>Hand-picked episodes for Jason</itunes:summary>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:block>Yes</itunes:block>
+  <itunes:category text="Education"/>
+  <itunes:image href="https://substackcdn.com/feed/podcast/1084089/ca7468da5614a246d2906ee8926f6de7.jpg"/>
+  <image><url>https://substackcdn.com/feed/podcast/1084089/ca7468da5614a246d2906ee8926f6de7.jpg</url><title>Curator Picks</title><link>https://jtalborough.github.io/curator-feed-903783cf/</link></image>
+  <item>
+    <title>Don Wilson on the GPU Market's Trillion Dollar Question</title>
+    <description>Odd Lots (Bloomberg) · Trading and markets
+
+Why this pick: DRW founder Don Wilson on building a tradable GPU compute market, the crunch spread, and the recent tech/neocloud selloff.
+
+Original: https://omny.fm/shows/odd-lots/don-wilson-on-the-gpu-markets-trillion-dollar-question</description>
+    <itunes:summary>Odd Lots (Bloomberg) · Trading and markets
+
+Why this pick: DRW founder Don Wilson on building a tradable GPU compute market, the crunch spread, and the recent tech/neocloud selloff.
+
+Original: https://omny.fm/shows/odd-lots/don-wilson-on-the-gpu-markets-trillion-dollar-question</itunes:summary>
+    <itunes:author>Odd Lots (Bloomberg)</itunes:author>
+    <guid isPermaLink="false">80dab570-fb6b-445e-b20e-b4e5015a3603</guid>
+    <pubDate>Mon, 19 Oct 2026 08:00:00 +0000</pubDate>
+    <enclosure url="https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/80dab570-fb6b-445e-b20e-b4e5015a3603/audio.mp3?utm_source=Podcast&amp;in_playlist=982f5071-765c-403d-969d-ae27003a8d83" length="25961347" type="audio/mpeg"/>
+    <link>https://omny.fm/shows/odd-lots/don-wilson-on-the-gpu-markets-trillion-dollar-question</link>
+    <itunes:duration>1619</itunes:duration>
+    <itunes:image href="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/982f5071-765c-403d-969d-ae27003a8d83/image.jpg?t=1681322812&amp;size=Large"/>
+  </item>
+  <item>
+    <title>Why Dwarkesh is Wrong about Computer Use + How OpenAI shipped its Jev competitor in 1 Week</title>
+    <description>Latent Space: The AI Engineer Podcast · AI and agents
+
+Why this pick: Latent Space's take on computer-use agents and the RL debate, plus how OpenAI shipped an agent product in a week.
+
+Original: https://www.latent.space/p/devday-2026</description>
+    <itunes:summary>Latent Space: The AI Engineer Podcast · AI and agents
+
+Why this pick: Latent Space's take on computer-use agents and the RL debate, plus how OpenAI shipped an agent product in a week.
+
+Original: https://www.latent.space/p/devday-2026</itunes:summary>
+    <itunes:author>Latent Space: The AI Engineer Podcast</itunes:author>
+    <guid isPermaLink="false">substack:post:218243619</guid>
+    <pubDate>Wed, 30 Sep 2026 22:23:40 GMT</pubDate>
+    <enclosure url="https://api.substack.com/feed/podcast/218243619/bab92a493c836ce907351acda5d8c2ec.mp3" length="28224515" type="audio/mpeg"/>
+    <link>https://www.latent.space/p/devday-2026</link>
+    <itunes:duration>2352</itunes:duration>
+    <itunes:image href="https://substackcdn.com/feed/podcast/1084089/post/218243619/d3224547e92ee6a40b066438a204696d.jpg"/>
+  </item>
+</channel>
+</rss>
