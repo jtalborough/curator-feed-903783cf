@@ -6,7 +6,7 @@
   <atom:link href="https://jtalborough.github.io/curator-feed-903783cf/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Hand-picked episodes for Jason</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 21 Oct 2026 10:36:45 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 21 Oct 2026 11:14:29 +0000</lastBuildDate>
   <itunes:author>Curator</itunes:author>
   <itunes:summary>Hand-picked episodes for Jason</itunes:summary>
   <itunes:explicit>false</itunes:explicit>
@@ -35,6 +35,46 @@ Original: https://omny.fm/shows/odd-lots/don-wilson-on-the-gpu-markets-trillion-
     <itunes:image href="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/982f5071-765c-403d-969d-ae27003a8d83/image.jpg?t=1681322812&amp;size=Large"/>
   </item>
   <item>
+    <title>Why Pessimism Makes Dumb Ideas Sound Smart - David Deutsch - #1164</title>
+    <description>Modern Wisdom · World/wildcard
+
+Why this pick: Physicist David Deutsch on optimism as a theory of problem-solving, why AGI isn't the doom story, and what education gets wrong.
+
+Original: https://www.youtube.com/watch?v=WS3BZjtHpWw</description>
+    <itunes:summary>Modern Wisdom · World/wildcard
+
+Why this pick: Physicist David Deutsch on optimism as a theory of problem-solving, why AGI isn't the doom story, and what education gets wrong.
+
+Original: https://www.youtube.com/watch?v=WS3BZjtHpWw</itunes:summary>
+    <itunes:author>Modern Wisdom</itunes:author>
+    <guid isPermaLink="false">38f5cb80-2c75-11f1-aa69-3bd75423085e</guid>
+    <pubDate>Sat, 17 Oct 2026 05:00:00 -0000</pubDate>
+    <enclosure url="https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB4638282457.mp3" length="173101899" type="audio/mpeg"/>
+    <link>https://www.youtube.com/watch?v=WS3BZjtHpWw</link>
+    <itunes:duration>4311</itunes:duration>
+    <itunes:image href="https://megaphone.imgix.net/podcasts/38f5cb80-2c75-11f1-aa69-3bd75423085e/image/28404876bdb4918884356cf922a20c22.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+  </item>
+  <item>
+    <title>SI422: Why Trend Following Rewards Patience ft. Katy Kaminski</title>
+    <description>Top Traders Unplugged · Trading and markets
+
+Why this pick: Systematic-trading foundations: crisis alpha, why bonds stop diversifying when inflation dominates, and why rules-based trend following needs patience.
+
+Original: https://www.toptradersunplugged.com/podcast/why-trend-following-rewards-patience-ft-katy-kaminski/</description>
+    <itunes:summary>Top Traders Unplugged · Trading and markets
+
+Why this pick: Systematic-trading foundations: crisis alpha, why bonds stop diversifying when inflation dominates, and why rules-based trend following needs patience.
+
+Original: https://www.toptradersunplugged.com/podcast/why-trend-following-rewards-patience-ft-katy-kaminski/</itunes:summary>
+    <itunes:author>Top Traders Unplugged</itunes:author>
+    <guid isPermaLink="false">9810e584-cb1b-4840-9d9a-c0b97e86c6f0</guid>
+    <pubDate>Sat, 17 Oct 2026 06:00:00 +0200</pubDate>
+    <enclosure url="https://episodes.captivate.fm/episode/9810e584-cb1b-4840-9d9a-c0b97e86c6f0.mp3" length="99555013" type="audio/mpeg"/>
+    <link>https://www.toptradersunplugged.com/podcast/why-trend-following-rewards-patience-ft-katy-kaminski/</link>
+    <itunes:duration>4148</itunes:duration>
+    <itunes:image href="https://artwork.captivate.fm/2a6b2d3d-8472-4e5a-b021-1db69d5b647e/si-captivate-422-3000.jpg"/>
+  </item>
+  <item>
     <title>Why Dwarkesh is Wrong about Computer Use + How OpenAI shipped its Jev competitor in 1 Week</title>
     <description>Latent Space: The AI Engineer Podcast · AI and agents
 
@@ -53,6 +93,26 @@ Original: https://www.latent.space/p/devday-2026</itunes:summary>
     <link>https://www.latent.space/p/devday-2026</link>
     <itunes:duration>2352</itunes:duration>
     <itunes:image href="https://substackcdn.com/feed/podcast/1084089/post/218243619/d3224547e92ee6a40b066438a204696d.jpg"/>
+  </item>
+  <item>
+    <title>Noam Brown – Agent swarms, alignment, &amp; recursive self-improvement</title>
+    <description>Dwarkesh Podcast · AI and agents
+
+Why this pick: OpenAI's Noam Brown on multi-agent systems, incentives inside agent 'orgs', and how you'd know agents are aligned. Depth after today's Anthropic agents read.
+
+Original: https://www.dwarkesh.com/p/noam-brown</description>
+    <itunes:summary>Dwarkesh Podcast · AI and agents
+
+Why this pick: OpenAI's Noam Brown on multi-agent systems, incentives inside agent 'orgs', and how you'd know agents are aligned. Depth after today's Anthropic agents read.
+
+Original: https://www.dwarkesh.com/p/noam-brown</itunes:summary>
+    <itunes:author>Dwarkesh Podcast</itunes:author>
+    <guid isPermaLink="false">substack:post:216149332</guid>
+    <pubDate>Thu, 17 Sep 2026 15:38:13 GMT</pubDate>
+    <enclosure url="https://api.substack.com/feed/podcast/216149332/7d69c76fc9ac6716e7931d0de12ec324.mp3" length="76957299" type="audio/mpeg"/>
+    <link>https://www.dwarkesh.com/p/noam-brown</link>
+    <itunes:duration>4810</itunes:duration>
+    <itunes:image href="https://apple.dwarkesh-podcast.workers.dev/art/v1/c3Vic3RhY2s6cG9zdDoyMTYxNDkzMzI.jpg"/>
   </item>
 </channel>
 </rss>
