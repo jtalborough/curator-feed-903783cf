@@ -6,7 +6,7 @@
   <atom:link href="https://jtalborough.github.io/curator-feed-903783cf/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Hand-picked episodes for Jason</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 22 Oct 2026 09:10:43 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 26 Oct 2026 09:01:43 +0000</lastBuildDate>
   <itunes:author>Curator</itunes:author>
   <itunes:summary>Hand-picked episodes for Jason</itunes:summary>
   <itunes:explicit>false</itunes:explicit>
@@ -14,6 +14,26 @@
   <itunes:category text="Education"/>
   <itunes:image href="https://substackcdn.com/feed/podcast/1084089/ca7468da5614a246d2906ee8926f6de7.jpg"/>
   <image><url>https://substackcdn.com/feed/podcast/1084089/ca7468da5614a246d2906ee8926f6de7.jpg</url><title>Curator Picks</title><link>https://jtalborough.github.io/curator-feed-903783cf/</link></image>
+  <item>
+    <title>Positive Psychology Founder: How To Stop Your Negative Thoughts - Martin Seligman - #1167</title>
+    <description>Modern Wisdom · Psychology and self-mastery
+
+Why this pick: Martin Seligman (learned helplessness, positive psychology) on explanatory style and how to argue with your own pessimistic voice. Core: first ~32 min (skip ad ~16:50-18:15).
+
+Original: https://www.youtube.com/watch?v=vf4t6tS44dw</description>
+    <itunes:summary>Modern Wisdom · Psychology and self-mastery
+
+Why this pick: Martin Seligman (learned helplessness, positive psychology) on explanatory style and how to argue with your own pessimistic voice. Core: first ~32 min (skip ad ~16:50-18:15).
+
+Original: https://www.youtube.com/watch?v=vf4t6tS44dw</itunes:summary>
+    <itunes:author>Modern Wisdom</itunes:author>
+    <guid isPermaLink="false">73a8950a-2c75-11f1-9890-f3a6dd8d18c6</guid>
+    <pubDate>Sat, 24 Oct 2026 05:00:00 -0000</pubDate>
+    <enclosure url="https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB5643935467.mp3" length="195137166" type="audio/mpeg"/>
+    <link>https://www.youtube.com/watch?v=vf4t6tS44dw</link>
+    <itunes:duration>4862</itunes:duration>
+    <itunes:image href="https://megaphone.imgix.net/podcasts/73a8950a-2c75-11f1-9890-f3a6dd8d18c6/image/56b9bcebc2408655c0a6841e985b5bde.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+  </item>
   <item>
     <title>Exploit Development, Agentic Vulnerability Discovery, and Fake PoCs</title>
     <description>Practical AI · AI and agents
