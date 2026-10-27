@@ -6,7 +6,7 @@
   <atom:link href="https://jtalborough.github.io/curator-feed-903783cf/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Hand-picked episodes for Jason</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 26 Oct 2026 09:01:43 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 27 Oct 2026 09:08:19 +0000</lastBuildDate>
   <itunes:author>Curator</itunes:author>
   <itunes:summary>Hand-picked episodes for Jason</itunes:summary>
   <itunes:explicit>false</itunes:explicit>
@@ -14,6 +14,26 @@
   <itunes:category text="Education"/>
   <itunes:image href="https://substackcdn.com/feed/podcast/1084089/ca7468da5614a246d2906ee8926f6de7.jpg"/>
   <image><url>https://substackcdn.com/feed/podcast/1084089/ca7468da5614a246d2906ee8926f6de7.jpg</url><title>Curator Picks</title><link>https://jtalborough.github.io/curator-feed-903783cf/</link></image>
+  <item>
+    <title>The Most Dangerous Investment Cycle In History | Paul Kedrosky</title>
+    <description>Hidden Forces · AI and agents (bigger picture: AI economics)
+
+Why this pick: Paul Kedrosky on why the AI capex boom is unlike past tech cycles (labor substitution, customer concentration, AI capex share of GDP and the S&amp;P) ahead of Wed/Thu hyperscaler earnings. Core: ~4:25-36:25 (video timestamps; audio may run ~1 min later).
+
+Original: https://www.youtube.com/watch?v=mcn8HpgPBIY</description>
+    <itunes:summary>Hidden Forces · AI and agents (bigger picture: AI economics)
+
+Why this pick: Paul Kedrosky on why the AI capex boom is unlike past tech cycles (labor substitution, customer concentration, AI capex share of GDP and the S&amp;P) ahead of Wed/Thu hyperscaler earnings. Core: ~4:25-36:25 (video timestamps; audio may run ~1 min later).
+
+Original: https://www.youtube.com/watch?v=mcn8HpgPBIY</itunes:summary>
+    <itunes:author>Hidden Forces</itunes:author>
+    <guid isPermaLink="false">f6e408c6-06ad-4e3f-a0d9-899afb07460b</guid>
+    <pubDate>Mon, 26 Oct 2026 07:00:00 +0000</pubDate>
+    <enclosure url="https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/hiddenforces/Ep.505_Paul_Kedrosky_Main_Feed_10-26-26.mp3?dest-id=457899" length="60750773" type="audio/mpeg"/>
+    <link>https://www.youtube.com/watch?v=mcn8HpgPBIY</link>
+    <itunes:duration>3797</itunes:duration>
+    <itunes:image href="https://static.libsyn.com/p/assets/5/3/8/c/538c7b5356701516e5bbc093207a2619/New_HF_Logo.jpeg"/>
+  </item>
   <item>
     <title>Positive Psychology Founder: How To Stop Your Negative Thoughts - Martin Seligman - #1167</title>
     <description>Modern Wisdom · Psychology and self-mastery
