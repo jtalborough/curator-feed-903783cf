@@ -6,7 +6,7 @@
   <atom:link href="https://jtalborough.github.io/curator-feed-903783cf/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Hand-picked episodes for Jason</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 27 Oct 2026 09:08:19 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 28 Oct 2026 09:06:13 +0000</lastBuildDate>
   <itunes:author>Curator</itunes:author>
   <itunes:summary>Hand-picked episodes for Jason</itunes:summary>
   <itunes:explicit>false</itunes:explicit>
@@ -14,6 +14,26 @@
   <itunes:category text="Education"/>
   <itunes:image href="https://substackcdn.com/feed/podcast/1084089/ca7468da5614a246d2906ee8926f6de7.jpg"/>
   <image><url>https://substackcdn.com/feed/podcast/1084089/ca7468da5614a246d2906ee8926f6de7.jpg</url><title>Curator Picks</title><link>https://jtalborough.github.io/curator-feed-903783cf/</link></image>
+  <item>
+    <title>#413 ‒ The neuroscience of emotion | Lisa Feldman Barrett, Ph.D.</title>
+    <description>The Peter Attia Drive · Psychology and self-mastery
+
+Why this pick: Lisa Feldman Barrett on stress as a body budget (allostasis), uncertainty, people as each other's regulators, and building emotional skill through practice and niche design rather than willpower. Core: ~1:51:25-2:24:30 (video timestamps; audio may be offset a minute or two).
+
+Original: https://www.youtube.com/watch?v=0oNeFRTpvUE</description>
+    <itunes:summary>The Peter Attia Drive · Psychology and self-mastery
+
+Why this pick: Lisa Feldman Barrett on stress as a body budget (allostasis), uncertainty, people as each other's regulators, and building emotional skill through practice and niche design rather than willpower. Core: ~1:51:25-2:24:30 (video timestamps; audio may be offset a minute or two).
+
+Original: https://www.youtube.com/watch?v=0oNeFRTpvUE</itunes:summary>
+    <itunes:author>The Peter Attia Drive</itunes:author>
+    <guid isPermaLink="false">35ead18b-d2cc-4844-b23f-e56a61cda80c</guid>
+    <pubDate>Mon, 26 Oct 2026 04:15:00 +0000</pubDate>
+    <enclosure url="https://traffic.libsyn.com/secure/peterattiadrive/EP.413_-_Lisa_Barrett_Feldman_PUBLIC_FINAL.mp3?dest-id=713489" length="154701875" type="audio/mpeg"/>
+    <link>https://www.youtube.com/watch?v=0oNeFRTpvUE</link>
+    <itunes:duration>9245</itunes:duration>
+    <itunes:image href="https://static.libsyn.com/p/assets/e/d/6/0/ed60b3def918dca516c3140a3186d450/the_Drive_public.png"/>
+  </item>
   <item>
     <title>The Most Dangerous Investment Cycle In History | Paul Kedrosky</title>
     <description>Hidden Forces · AI and agents (bigger picture: AI economics)
