@@ -6,7 +6,7 @@
   <atom:link href="https://jtalborough.github.io/curator-feed-903783cf/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Hand-picked episodes for Jason</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 28 Oct 2026 09:06:13 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 29 Oct 2026 08:59:48 +0000</lastBuildDate>
   <itunes:author>Curator</itunes:author>
   <itunes:summary>Hand-picked episodes for Jason</itunes:summary>
   <itunes:explicit>false</itunes:explicit>
@@ -14,6 +14,26 @@
   <itunes:category text="Education"/>
   <itunes:image href="https://substackcdn.com/feed/podcast/1084089/ca7468da5614a246d2906ee8926f6de7.jpg"/>
   <image><url>https://substackcdn.com/feed/podcast/1084089/ca7468da5614a246d2906ee8926f6de7.jpg</url><title>Curator Picks</title><link>https://jtalborough.github.io/curator-feed-903783cf/</link></image>
+  <item>
+    <title>AI Agents Are Already Changing the Price of Goods (Lindsay Owens)</title>
+    <description>Odd Lots · AI and agents (bigger picture) / markets
+
+Why this pick: Lindsay Owens (Groundwork, author of Gouged) on surveillance pricing and AI shopping agents that don't work for you: a 325,000-agent study, Instacart's 23% price gaps, fiduciary duty for agents, Amazon blocking agents and Walmart registering them. Core: 4:19-10:20 and 29:43-40:50 (video timestamps; audio runs ~2 min shorter, so start a minute or two earlier).
+
+Original: https://www.youtube.com/watch?v=gzgBmZcSEU8</description>
+    <itunes:summary>Odd Lots · AI and agents (bigger picture) / markets
+
+Why this pick: Lindsay Owens (Groundwork, author of Gouged) on surveillance pricing and AI shopping agents that don't work for you: a 325,000-agent study, Instacart's 23% price gaps, fiduciary duty for agents, Amazon blocking agents and Walmart registering them. Core: 4:19-10:20 and 29:43-40:50 (video timestamps; audio runs ~2 min shorter, so start a minute or two earlier).
+
+Original: https://www.youtube.com/watch?v=gzgBmZcSEU8</itunes:summary>
+    <itunes:author>Odd Lots</itunes:author>
+    <guid isPermaLink="false">ce2dc3a9-d06c-43f3-918e-b4ec014a82ff</guid>
+    <pubDate>Mon, 26 Oct 2026 08:00:00 +0000</pubDate>
+    <enclosure url="https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/ce2dc3a9-d06c-43f3-918e-b4ec014a82ff/audio.mp3?utm_source=Podcast&amp;in_playlist=982f5071-765c-403d-969d-ae27003a8d83" length="48526121" type="audio/mpeg"/>
+    <link>https://www.youtube.com/watch?v=gzgBmZcSEU8</link>
+    <itunes:duration>3029</itunes:duration>
+    <itunes:image href="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/982f5071-765c-403d-969d-ae27003a8d83/image.jpg?t=1681322812&amp;size=Large"/>
+  </item>
   <item>
     <title>#413 ‒ The neuroscience of emotion | Lisa Feldman Barrett, Ph.D.</title>
     <description>The Peter Attia Drive · Psychology and self-mastery
