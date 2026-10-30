@@ -6,7 +6,7 @@
   <atom:link href="https://jtalborough.github.io/curator-feed-903783cf/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Hand-picked episodes for Jason</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 29 Oct 2026 08:59:48 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 30 Oct 2026 09:04:21 +0000</lastBuildDate>
   <itunes:author>Curator</itunes:author>
   <itunes:summary>Hand-picked episodes for Jason</itunes:summary>
   <itunes:explicit>false</itunes:explicit>
@@ -14,6 +14,26 @@
   <itunes:category text="Education"/>
   <itunes:image href="https://substackcdn.com/feed/podcast/1084089/ca7468da5614a246d2906ee8926f6de7.jpg"/>
   <image><url>https://substackcdn.com/feed/podcast/1084089/ca7468da5614a246d2906ee8926f6de7.jpg</url><title>Curator Picks</title><link>https://jtalborough.github.io/curator-feed-903783cf/</link></image>
+  <item>
+    <title>#692: Arthur C. Brooks — How to Be Happy, Reverse Bucket Lists, The Four False Idols (2023)</title>
+    <description>The Tim Ferriss Show · Psychology and self-mastery
+
+Why this pick: Arthur Brooks on why happiness isn't a feeling or the absence of unhappiness, the PANAS positive/negative affect 2x2, the three 'macronutrients' (enjoyment, satisfaction, meaning), satisfaction = haves / wants, and Aquinas's four idols (money, power, pleasure, fame). Core: 0:31:08-0:56:10 (video timestamps; the audio is ~7 min longer, so start around 0:38).
+
+Original: https://www.youtube.com/watch?v=LFKY1scJepM</description>
+    <itunes:summary>The Tim Ferriss Show · Psychology and self-mastery
+
+Why this pick: Arthur Brooks on why happiness isn't a feeling or the absence of unhappiness, the PANAS positive/negative affect 2x2, the three 'macronutrients' (enjoyment, satisfaction, meaning), satisfaction = haves / wants, and Aquinas's four idols (money, power, pleasure, fame). Core: 0:31:08-0:56:10 (video timestamps; the audio is ~7 min longer, so start around 0:38).
+
+Original: https://www.youtube.com/watch?v=LFKY1scJepM</itunes:summary>
+    <itunes:author>The Tim Ferriss Show</itunes:author>
+    <guid isPermaLink="false">gid://art19-episode-locator/V0/aF1bx-AfsHmqaToYUP1OrIL3ijsF9lsZ96qPHYnOstE</guid>
+    <pubDate>Mon, 11 Sep 2023 19:30:49 +0000</pubDate>
+    <enclosure url="https://rss.art19.com/episodes/7fc86f88-62ed-4958-90ea-448d1a53b62e.mp3" length="163483898" type="audio/mpeg"/>
+    <link>https://www.youtube.com/watch?v=LFKY1scJepM</link>
+    <itunes:duration>10217</itunes:duration>
+    <itunes:image href="https://content.production.cdn.art19.com/images/69/10/10/fb/691010fb-625e-4abe-993c-a57228b28dbe/91cb53ae0d5dbb379b9dffecf0a772593891d0d09bbe6d90ee746edbdb79e3ec75584f2ceb8260e9f675a90c05419b9b99842a76905b686f0f51c1a9d3e227ab.jpeg"/>
+  </item>
   <item>
     <title>AI Agents Are Already Changing the Price of Goods (Lindsay Owens)</title>
     <description>Odd Lots · AI and agents (bigger picture) / markets
