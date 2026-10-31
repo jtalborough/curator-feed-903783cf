@@ -6,7 +6,7 @@
   <atom:link href="https://jtalborough.github.io/curator-feed-903783cf/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Hand-picked episodes for Jason</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 30 Oct 2026 09:04:21 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 31 Oct 2026 08:59:34 +0000</lastBuildDate>
   <itunes:author>Curator</itunes:author>
   <itunes:summary>Hand-picked episodes for Jason</itunes:summary>
   <itunes:explicit>false</itunes:explicit>
@@ -14,6 +14,26 @@
   <itunes:category text="Education"/>
   <itunes:image href="https://substackcdn.com/feed/podcast/1084089/ca7468da5614a246d2906ee8926f6de7.jpg"/>
   <image><url>https://substackcdn.com/feed/podcast/1084089/ca7468da5614a246d2906ee8926f6de7.jpg</url><title>Curator Picks</title><link>https://jtalborough.github.io/curator-feed-903783cf/</link></image>
+  <item>
+    <title>#306: Anthropic's $2T IPO, Elon Predicts Neocloud Death, and China's Kimi Catches Up</title>
+    <description>Moonshots with Peter Diamandis · AI and agents (bigger picture)
+
+Why this pick: Bigger-picture AI: is the AI bubble popping or just the neocloud debt (CoreWeave/Nebius, 8% vs 15% borrowing, dark-fiber analogy), Anthropic's S-1 ($2.08 revenue per $1 of compute, $500B+ compute commitments) and its long-term benefit trust (Alex: a governance risk; Salim: mission as governance), and agents building side channels to get around isolation. Core: 15:57-54:30 on the video (skip the ~30 s ad at 27:13); the audio runs ~1 min longer, so allow a minute of drift.
+
+Original: https://www.youtube.com/watch?v=WXELsIk4o0g</description>
+    <itunes:summary>Moonshots with Peter Diamandis · AI and agents (bigger picture)
+
+Why this pick: Bigger-picture AI: is the AI bubble popping or just the neocloud debt (CoreWeave/Nebius, 8% vs 15% borrowing, dark-fiber analogy), Anthropic's S-1 ($2.08 revenue per $1 of compute, $500B+ compute commitments) and its long-term benefit trust (Alex: a governance risk; Salim: mission as governance), and agents building side channels to get around isolation. Core: 15:57-54:30 on the video (skip the ~30 s ad at 27:13); the audio runs ~1 min longer, so allow a minute of drift.
+
+Original: https://www.youtube.com/watch?v=WXELsIk4o0g</itunes:summary>
+    <itunes:author>Moonshots with Peter Diamandis</itunes:author>
+    <guid isPermaLink="false">944322fe-d2e6-11f1-b55f-d75ab929bc0a</guid>
+    <pubDate>Wed, 28 Oct 2026 20:00:00 +0000</pubDate>
+    <enclosure url="https://traffic.megaphone.fm/DVVTS3099884582.mp3" length="327513546" type="audio/mpeg"/>
+    <link>https://www.youtube.com/watch?v=WXELsIk4o0g</link>
+    <itunes:duration>8246</itunes:duration>
+    <itunes:image href="https://megaphone.imgix.net/podcasts/944322fe-d2e6-11f1-b55f-d75ab929bc0a/image/206440be081ba71b9ca7b11eaef19333.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+  </item>
   <item>
     <title>#692: Arthur C. Brooks — How to Be Happy, Reverse Bucket Lists, The Four False Idols (2023)</title>
     <description>The Tim Ferriss Show · Psychology and self-mastery
