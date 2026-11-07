@@ -6,7 +6,7 @@
   <atom:link href="https://jtalborough.github.io/curator-feed-903783cf/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Hand-picked episodes for Jason</description>
   <language>en-us</language>
-  <lastBuildDate>Sat, 31 Oct 2026 08:59:34 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 07 Nov 2026 10:08:17 +0000</lastBuildDate>
   <itunes:author>Curator</itunes:author>
   <itunes:summary>Hand-picked episodes for Jason</itunes:summary>
   <itunes:explicit>false</itunes:explicit>
@@ -14,6 +14,25 @@
   <itunes:category text="Education"/>
   <itunes:image href="https://substackcdn.com/feed/podcast/1084089/ca7468da5614a246d2906ee8926f6de7.jpg"/>
   <image><url>https://substackcdn.com/feed/podcast/1084089/ca7468da5614a246d2906ee8926f6de7.jpg</url><title>Curator Picks</title><link>https://jtalborough.github.io/curator-feed-903783cf/</link></image>
+  <item>
+    <title>#620: Dr. Gabor Maté — The Myth of Normal, Metabolizing Anger, Processing Trauma, and Finding the Still Voice Within</title>
+    <description>The Tim Ferriss Show · Psychology and self-mastery
+
+Why this pick: Just the ~10-minute anger segment: healthy anger guards a boundary in the moment and then passes; old suppressed rage gets set off by small things, and venting makes it bigger. His fix is to feel it in the body, using Tara Brach's RAIN (Recognize, Allow, Investigate, Nurture). On the video it runs 27:45-37:40. The audio has ads, so it starts a few minutes later; listen for Tim asking what Gabor has learned about rage and anger.
+
+Original: https://www.youtube.com/watch?v=hhhTWYDPAXI&amp;t=1665s</description>
+    <itunes:summary>The Tim Ferriss Show · Psychology and self-mastery
+
+Why this pick: Just the ~10-minute anger segment: healthy anger guards a boundary in the moment and then passes; old suppressed rage gets set off by small things, and venting makes it bigger. His fix is to feel it in the body, using Tara Brach's RAIN (Recognize, Allow, Investigate, Nurture). On the video it runs 27:45-37:40. The audio has ads, so it starts a few minutes later; listen for Tim asking what Gabor has learned about rage and anger.
+
+Original: https://www.youtube.com/watch?v=hhhTWYDPAXI&amp;t=1665s</itunes:summary>
+    <itunes:author>The Tim Ferriss Show</itunes:author>
+    <guid isPermaLink="false">gid://art19-episode-locator/V0/nYqKNYu0SGdeUeitgPh7TXx7EotjIsT4Ibhhhpa1HPU</guid>
+    <pubDate>Wed, 07 Sep 2022 14:25:28 -0000</pubDate>
+    <enclosure url="https://rss.art19.com/episodes/6bc75d95-c8e1-4a36-8053-c815c1b65bfa.mp3" length="93120470" type="audio/mpeg"/>
+    <link>https://www.youtube.com/watch?v=hhhTWYDPAXI&amp;t=1665s</link>
+    <itunes:duration>5820</itunes:duration>
+  </item>
   <item>
     <title>#306: Anthropic's $2T IPO, Elon Predicts Neocloud Death, and China's Kimi Catches Up</title>
     <description>Moonshots with Peter Diamandis · AI and agents (bigger picture)
