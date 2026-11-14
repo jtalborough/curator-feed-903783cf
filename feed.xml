@@ -6,7 +6,7 @@
   <atom:link href="https://jtalborough.github.io/curator-feed-903783cf/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Hand-picked episodes for Jason</description>
   <language>en-us</language>
-  <lastBuildDate>Sat, 07 Nov 2026 10:08:17 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 14 Nov 2026 10:10:38 +0000</lastBuildDate>
   <itunes:author>Curator</itunes:author>
   <itunes:summary>Hand-picked episodes for Jason</itunes:summary>
   <itunes:explicit>false</itunes:explicit>
@@ -14,6 +14,25 @@
   <itunes:category text="Education"/>
   <itunes:image href="https://substackcdn.com/feed/podcast/1084089/ca7468da5614a246d2906ee8926f6de7.jpg"/>
   <image><url>https://substackcdn.com/feed/podcast/1084089/ca7468da5614a246d2906ee8926f6de7.jpg</url><title>Curator Picks</title><link>https://jtalborough.github.io/curator-feed-903783cf/</link></image>
+  <item>
+    <title>How To Make Better Decisions (with way less uncertainty) - Joe Hudson - #1171</title>
+    <description>Modern Wisdom · Psychology and self-mastery
+
+Why this pick: The first ~42 minutes. Hudson's claim: hard decisions are &quot;100% an emotional problem.&quot; If you're afraid to feel a consequence (rejection, looking like a failure), whole options disappear. Fear makes you think in black and white and see a &quot;false end,&quot; so treat decisions as a portfolio, decide by a few written principles, and treat everything as an iteration. On the video it runs 0:00-42:59 (skip the ad at 24:43-25:43). The audio's ads may sit elsewhere; stop when the Momentous sleep ad starts.
+
+Original: https://www.youtube.com/watch?v=xNwYaTf7Zn8</description>
+    <itunes:summary>Modern Wisdom · Psychology and self-mastery
+
+Why this pick: The first ~42 minutes. Hudson's claim: hard decisions are &quot;100% an emotional problem.&quot; If you're afraid to feel a consequence (rejection, looking like a failure), whole options disappear. Fear makes you think in black and white and see a &quot;false end,&quot; so treat decisions as a portfolio, decide by a few written principles, and treat everything as an iteration. On the video it runs 0:00-42:59 (skip the ad at 24:43-25:43). The audio's ads may sit elsewhere; stop when the Momentous sleep ad starts.
+
+Original: https://www.youtube.com/watch?v=xNwYaTf7Zn8</itunes:summary>
+    <itunes:author>Modern Wisdom</itunes:author>
+    <guid isPermaLink="false">3dca2a2e-2c76-11f1-8478-5b5989bc8c6f</guid>
+    <pubDate>Mon, 02 Nov 2026 06:00:00 -0000</pubDate>
+    <enclosure url="https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB4401693270.mp3" length="248315166" type="audio/mpeg"/>
+    <link>https://www.youtube.com/watch?v=xNwYaTf7Zn8</link>
+    <itunes:duration>6191</itunes:duration>
+  </item>
   <item>
     <title>#620: Dr. Gabor Maté — The Myth of Normal, Metabolizing Anger, Processing Trauma, and Finding the Still Voice Within</title>
     <description>The Tim Ferriss Show · Psychology and self-mastery
